@@ -1,0 +1,1 @@
+print("Escena 1")
